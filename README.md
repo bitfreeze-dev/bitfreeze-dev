@@ -8,7 +8,7 @@ DBase, Clipper, JDE">***languages***</span>.
 
 - 🔭 I’m currently working on plugins for AlfheimMC
 - 🌱 I’m currently learning SpringBoot
-- 👯 I’m looking to collaborate on games
+- 👯 I’m looking to collaborate on game development
 - 💬 Ask me about Spigot
 - 📫 How to reach me: bitfreeze.dev@gmail.com
 - 😄 Pronouns: thy morrow hath yonder
