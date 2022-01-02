@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on games
 - 💬 Ask me about Spigot and optimization
 - 📫 How to reach me: bitfreeze.dev@gmail.com
-- 😄 Pronouns: thy morrow hath yonder
+- 😄 Pronoun: why
 - ⚡ Fun fact: optimizing never really meant shortening
 
 -->
