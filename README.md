@@ -11,7 +11,6 @@ DBase, Clipper, JDE">***languages***</span>.
 - 👯 I’m looking to collaborate on game development
 - 💬 Ask me about Spigot
 - 📫 How to reach me: bitfreeze@gmail.com
-- 😄 Pronouns: thy morrow hath yonder
 - ⚡ Fun fact: optimizing never really meant shortening
 
 <!--
