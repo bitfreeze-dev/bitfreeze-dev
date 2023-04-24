@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can call me bitfreeze.<br>I'm an experienced developer in multiple programming <span title="Java, Javascript, Lua, Skript,
+You can call me bitfreeze, or just bit.<br>I'm an experienced developer in multiple programming <span title="Java, Javascript, Lua, Skript,
 C, C++, C#, Assembly,
 Basic, Visual Basic, VBA,
 DBase, Clipper, JDE">***languages***</span>.
