@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 You can call me bitfreeze.<br>I'm an experienced developer in multiple programming <span title="Java, Javascript, Lua, Skript,
-C, C++, C#, Assembly 80x86/88,
+C, C++, C#, Assembly,
 Basic, Visual Basic, VBA,
 DBase, Clipper, JDE">***languages***</span>.
 
